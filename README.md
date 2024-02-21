@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 게임 클라이언트 개발자 최시원입니다. 👋
 
 <!--
 **SiwonChoi98/SiwonChoi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

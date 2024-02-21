@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=100&section=header&text=😄활동내역&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
+- (주)쿡앱스 클라이언트 개발 슈퍼루키 인턴 (2023.09.04 ~ 2023.12.03)
+- 스마일 게이트 인디 게임 장학생 (2023.02.28 ~ 2023.05.15)
+- 게임 메이커스 동아리 (2023.02.01 ~ 2023.12.16)
+  

@@ -1,5 +1,5 @@
 ### 안녕하세요. 게임 클라이언트 개발자 최시원입니다. 👋
-
+- 많은 사람들의 사랑받는 게임을 개발하는 것을 목표로 달리는 중....
 <!--
 **SiwonChoi98/SiwonChoi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 - 게임 메이커스 동아리 (2023.02.01 ~ 2023.12.16)
 
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=100&section=header&text=⚡개발프로젝트&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
+- # 🌱제목 : 미정 (2024.02.27 ~ 진행 중)
+UNITY (2D), 핵앤슬래시
+
 - # 🌱수박 탕후루 (2023.11.10 ~ 2023.11.20)
 UNITY (2D), HYPER CASUAL
 
@@ -30,7 +33,7 @@ UNITY (2D), HYPER CASUAL
 UNITY (2D), HYPER CASUAL
 
 - # 🌱소울 스크롤 (2023.03.15 ~ 2023.05.15)
-UNITY (3D), ACTION 
+UNITY (3D), 핵앤슬래시 
 
 - # 🌱쿠키팡 (2023.03.01 ~ 2023.04.10)
 UNITY (2D), CASUAL, PUZZLE

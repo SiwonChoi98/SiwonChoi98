@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=100&section=header&text=⚡개발프로젝트&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
 
-- ## 🌱NewProject2024 (2024.02.27 ~ 진행 중)
-UNITY (2D), 핵앤슬래시
-
 - ## 🌱수박 탕후루 (2023.11.10 ~ 2023.11.20)
 UNITY (2D), HYPER CASUAL
 

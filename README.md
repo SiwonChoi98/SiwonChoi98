@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - #### 스마일 게이트 인디 게임 장학생 (2023.02.28 ~ 2023.05.15)
 - #### 게임 메이커스 동아리 (2023.02.01 ~ 2023.12.16)
 
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=⚡개발프로젝트&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=⚡개발프로젝트&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 
 - #### 🌱수박 탕후루 (2023.11.10 ~ 2023.11.20) [ https://github.com/SiwonChoi98/WatermelonTanghulu ]
 UNITY (2D), HYPER CASUAL
@@ -30,7 +30,7 @@ UNITY (2D), HYPER CASUAL
 - #### 🌱랜덤 슬라임 (2023.09.08 ~ 2023.09.28) [ https://github.com/SiwonChoi98/RandomSlime ]
 UNITY (2D), HYPER CASUAL
 
-- ##### 🌱소울 스크롤 (2023.03.15 ~ 2023.05.15)
+- ##### 🌱소울 스크롤 (2023.03.15 ~ 2023.05.15) 
 UNITY (3D), 핵앤슬래시 
 
 - ##### 🌱쿠키팡 (2023.03.01 ~ 2023.04.10)

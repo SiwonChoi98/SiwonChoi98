@@ -45,7 +45,7 @@ UNITY (2D), HYPER CASUAL
 - ##### 🌱디펜스 아처 (2022.04.01 ~ 2022.06.01) [ https://www.youtube.com/watch?v=V1iOSW0weYI&t=140s ]
 UNITY (3D), DEFENCE
 
- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=🌱연습&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
+ ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=🌱공부&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 
 - #### 서버(AWS S3) 어드레서블 활용 및 데이터 관리 [ https://github.com/SiwonChoi98/InGameData-UserData-addressableAsset ]
 

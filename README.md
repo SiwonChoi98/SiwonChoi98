@@ -30,19 +30,19 @@ UNITY (2D), HYPER CASUAL
 - #### 🌱랜덤 슬라임 (2023.09.08 ~ 2023.09.28) [ https://github.com/SiwonChoi98/RandomSlime ]
 UNITY (2D), HYPER CASUAL
 
-- ##### 🌱소울 스크롤 (2023.03.15 ~ 2023.05.15) 
+- ##### 🌱소울 스크롤 (2023.03.15 ~ 2023.05.15) [ https://www.youtube.com/watch?v=CtSddPviBwo&t=196s ]
 UNITY (3D), 핵앤슬래시 
 
-- ##### 🌱쿠키팡 (2023.03.01 ~ 2023.04.10)
+- ##### 🌱쿠키팡 (2023.03.01 ~ 2023.04.10) [ https://www.youtube.com/watch?v=Qxl3oXogUqY&t=90s ] 
 UNITY (2D), CASUAL, PUZZLE
 
-- ##### 🌱룬 서바이벌 (2022.09.15 ~ 2022.10.15)
+- ##### 🌱룬 서바이벌 (2022.09.15 ~ 2022.10.15) [ https://www.youtube.com/watch?v=ZHwwIkrfXGA&t=86s ]
 UNITY (3D), HYPER CASUAL
 
-- ##### 🌱별빛팡팡 (2022.07.01 ~ 2022.07.22)
+- ##### 🌱별빛팡팡 (2022.07.01 ~ 2022.07.22) [ https://www.youtube.com/watch?v=gkMU1gYdbOk&t=2s ] 
 UNITY (2D), HYPER CASUAL
 
-- ##### 🌱디펜스 아처 (2022.04.01 ~ 2022.06.01)
+- ##### 🌱디펜스 아처 (2022.04.01 ~ 2022.06.01) [ https://www.youtube.com/watch?v=V1iOSW0weYI&t=140s ]
 UNITY (3D), DEFENCE
 
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=🌱연습&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)

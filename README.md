@@ -25,28 +25,28 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=⚡개발프로젝트&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 
 - #### 🌱수박 탕후루 (2023.11.10 ~ 2023.11.20) [ https://github.com/SiwonChoi98/WatermelonTanghulu ]
-#### [스토어 출시 이후 내림]
-UNITY (2D), HYPER CASUAL
+#### [플레이 스토어 출시 이후 내림] 
+타겟 기기 : ANDROID / 개발 엔진 : UNITY (2D) / 장르 : HYPER CASUAL, 수박게임
 
 - #### 🌱랜덤 슬라임 (2023.09.08 ~ 2023.09.28) [ https://github.com/SiwonChoi98/RandomSlime ]
-UNITY (2D), HYPER CASUAL
+타겟 기기 : ANDROID / 개발 엔진 : UNITY (2D) / 장르 : HYPER CASUAL, 탕탕라이크
 
 - ##### 🌱소울 스크롤 (2023.03.15 ~ 2023.05.15) [ https://www.youtube.com/watch?v=CtSddPviBwo&t=196s ] 
-UNITY (3D), 핵앤슬래시 
+타겟 기기 : ANDROID / 개발 엔진 : UNITY (3D) / 장르 : 핵앤슬래시 
 
 - ##### 🌱쿠키팡 (2023.03.01 ~ 2023.04.10) [ https://www.youtube.com/watch?v=Qxl3oXogUqY&t=90s ]
-##### [스토어 출시] : [ https://play.google.com/store/apps/details?id=com.GobyCompany.CookiePang ]
-UNITY (2D), CASUAL, PUZZLE
+##### [플레이 스토어 출시] : [ https://play.google.com/store/apps/details?id=com.GobyCompany.CookiePang ]
+타겟 기기 : ANDROID / 개발 엔진 : UNITY (2D) / 장르 : CASUAL, PUZZLE
 
 - ##### 🌱룬 서바이벌 (2022.09.15 ~ 2022.10.15) [ https://www.youtube.com/watch?v=ZHwwIkrfXGA&t=86s ]
-UNITY (3D), HYPER CASUAL
+타겟 기기 : ANDROID / 개발 엔진 : UNITY (3D) / 장르 : HYPER CASUAL, 탕탕라이크
 
 - ##### 🌱별빛팡팡 (2022.07.01 ~ 2022.07.22) [ https://www.youtube.com/watch?v=gkMU1gYdbOk&t=2s ]
-##### [스토어 출시] : [ https://play.google.com/store/apps/details?id=com.ESCAPESTAR.CHOI ] 
-UNITY (2D), HYPER CASUAL
+##### [플레이 스토어 출시] : [ https://play.google.com/store/apps/details?id=com.ESCAPESTAR.CHOI ] 
+타겟 기기 : ANDROID / 개발 엔진 : UNITY (2D) / 장르 : HYPER CASUAL, 피하기
 
 - ##### 🌱디펜스 아처 (2022.04.01 ~ 2022.06.01) [ https://www.youtube.com/watch?v=V1iOSW0weYI&t=140s ]
-UNITY (3D), DEFENCE
+타겟 기기 : PC / 개발 엔진 : UNITY (3D) / 장르 : DEFENCE
 
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=🌱공부&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 

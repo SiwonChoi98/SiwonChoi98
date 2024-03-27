@@ -7,7 +7,7 @@
 
 백준 온라인 져지 : [ https://www.acmicpc.net/user/bestvalue0410 ]
 
-유튜브 : [ channel/UCjcuRdCqDgogW7ZK8ukTp6w ]
+유튜브 : [ https://www.youtube.com/channel/UCjcuRdCqDgogW7ZK8ukTp6w ]
 <!--
 **SiwonChoi98/SiwonChoi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

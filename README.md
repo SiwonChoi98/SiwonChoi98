@@ -1,5 +1,13 @@
 ### 안녕하세요. 게임 클라이언트 개발자 최시원입니다. 👋
 많은 사람들의 사랑받는 게임을 개발하는 것을 목표로 달리는 중....
+
+
+------------------------
+블로그 : 
+
+백준 온라인 져지 : 
+
+유튜브 : 
 <!--
 **SiwonChoi98/SiwonChoi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +30,7 @@ Here are some ideas to get you started:
 - #### 스마일 게이트 인디 게임 장학생 (2023.02.28 ~ 2023.05.15)
 - #### 게임 메이커스 동아리 (2023.02.01 ~ 2023.12.16)
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=⚡개발프로젝트&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=⚡프로젝트&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 
 - #### 🌱수박 탕후루 (2023.11.10 ~ 2023.11.20) [ https://github.com/SiwonChoi98/WatermelonTanghulu ]
 #### <p>$\bf{\large{\color{#DD6565} [플레이 스토어 출시 -> 내림] }}$</p> 

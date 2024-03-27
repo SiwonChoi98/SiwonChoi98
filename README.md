@@ -3,11 +3,11 @@
 
 
 ------------------------
-블로그 : 
+블로그 : [ https://blog.naver.com/bestvalue0410 ] 
 
-백준 온라인 져지 : 
+백준 온라인 져지 : [ https://www.acmicpc.net/user/bestvalue0410 ]
 
-유튜브 : 
+유튜브 : [ channel/UCjcuRdCqDgogW7ZK8ukTp6w ]
 <!--
 **SiwonChoi98/SiwonChoi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

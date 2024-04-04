@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=⚡프로젝트&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 
 - #### 🌱수박 탕후루 (2023.11.10 ~ 2023.11.20) [ https://github.com/SiwonChoi98/WatermelonTanghulu ]
-#### <p>$\bf{\large{\color{#DD6565} [플레이 스토어 출시 -> 내림] }}$</p> 
+#### <p>$\bf{\large{\color{#DD6565} ##### <p>$\bf{\large{\color{#5ad7b7} [플레이 스토어 출시] }}$</p> : [ https://play.google.com/store/apps/details?id=com.samplegames.MergeMergeMerge ]
 타겟 기기 : ANDROID / 개발 엔진 : UNITY (2D) / 장르 : HYPER CASUAL, 수박게임
 
 - #### 🌱랜덤 슬라임 (2023.09.08 ~ 2023.09.28) [ https://github.com/SiwonChoi98/RandomSlime ]

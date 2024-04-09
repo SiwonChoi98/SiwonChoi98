@@ -5,7 +5,7 @@
 ------------------------
 포트폴리오 : [ https://www.notion.so/Portfolio-39babd82f1254016bfd6b315cd1de31d?pvs=4 ] 
 
-블로 : [ https://gameclientstudynote.tistory.com ] 
+블로그 : [ https://gameclientstudynote.tistory.com ] 
 
 백준 온라인 져지 : [ https://www.acmicpc.net/user/bestvalue0410 ]
 

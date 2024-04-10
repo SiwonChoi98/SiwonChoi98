@@ -3,13 +3,13 @@
 
 
 ------------------------
-포트폴리오 : [ https://www.notion.so/Portfolio-39babd82f1254016bfd6b315cd1de31d?pvs=4 ] 
+- #### 포트폴리오 : [ https://www.notion.so/Portfolio-39babd82f1254016bfd6b315cd1de31d?pvs=4 ] 
 
-티스토리 : [ https://gameclientstudynote.tistory.com ] 
+- #### 티스토리 : [ https://gameclientstudynote.tistory.com ] 
 
-백준 온라인 져지 : [ https://www.acmicpc.net/user/bestvalue0410 ]
+- #### 백준 온라인 져지 : [ https://www.acmicpc.net/user/bestvalue0410 ]
 
-유튜브 : [ https://www.youtube.com/channel/UCjcuRdCqDgogW7ZK8ukTp6w ]
+- #### 유튜브 : [ https://www.youtube.com/channel/UCjcuRdCqDgogW7ZK8ukTp6w ]
 <!--
 **SiwonChoi98/SiwonChoi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

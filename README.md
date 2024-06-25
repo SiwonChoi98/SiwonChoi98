@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=⚡프로젝트&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 
+- #### MultiPlayer Game (2024.05.27 ~ ) [ https://github.com/SiwonChoi98/MultiPlayerGame ]
+  타겟 기기 : PC / 개발 엔진 : UNITY (2D) / 장르 (2D FPS) 
+
 - #### 🌱수박 탕후루 (2023.11.10 ~ 2023.11.20) [ https://github.com/SiwonChoi98/WatermelonTanghulu ]
 ##### <p>$\bf{\large{\color{#5ad7b7} [플레이 스토어 출시] }}$</p> [ https://play.google.com/store/apps/details?id=com.samplegames.MergeMergeMerge ]
 타겟 기기 : ANDROID / 개발 엔진 : UNITY (2D) / 장르 : HYPER CASUAL, 수박게임
@@ -58,7 +61,6 @@ Here are some ideas to get you started:
 - ##### 🌱디펜스 아처 (2022.04.01 ~ 2022.06.01) [ https://www.youtube.com/watch?v=V1iOSW0weYI&t=140s ]
 타겟 기기 : PC / 개발 엔진 : UNITY (3D) / 장르 : DEFENCE
 
-- ##### New MultiPlayerGame / Comming Soon
   
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=🌱공부&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 

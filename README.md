@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=⚡프로젝트&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 
-- 현재 개발 중
 
-- ### MultiPlayer Game (2024.05.27 ~ ) 
+- ### MultiPlayer Game (2024.05.27 ~ 현재 개발 중) 
 개발 엔진 : UNITY (2D) PC / 장르 (2D FPS) 
 
 깃허브 링크 : [ https://github.com/SiwonChoi98/MultiPlayerGame ]

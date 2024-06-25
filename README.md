@@ -34,32 +34,57 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=⚡프로젝트&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 
-- #### MultiPlayer Game (2024.05.27 ~ ) [ https://github.com/SiwonChoi98/MultiPlayerGame ]
-  타겟 기기 : PC / 개발 엔진 : UNITY (2D) / 장르 (2D FPS) 
+- 현재 개발 중
 
-- #### 🌱수박 탕후루 (2023.11.10 ~ 2023.11.20) [ https://github.com/SiwonChoi98/WatermelonTanghulu ]
-##### <p>$\bf{\large{\color{#5ad7b7} [플레이 스토어 출시] }}$</p> [ https://play.google.com/store/apps/details?id=com.samplegames.MergeMergeMerge ]
-타겟 기기 : ANDROID / 개발 엔진 : UNITY (2D) / 장르 : HYPER CASUAL, 수박게임
+- ### MultiPlayer Game (2024.05.27 ~ ) 
+개발 엔진 : UNITY (2D) PC / 장르 (2D FPS) 
 
-- #### 🌱랜덤 슬라임 (2023.09.08 ~ 2023.09.28) [ https://github.com/SiwonChoi98/RandomSlime ]
-타겟 기기 : ANDROID / 개발 엔진 : UNITY (2D) / 장르 : HYPER CASUAL, 탕탕라이크
+깃허브 링크 : [ https://github.com/SiwonChoi98/MultiPlayerGame ]
 
-- ##### 🌱소울 스크롤 (2023.03.15 ~ 2023.05.15) [ https://www.youtube.com/watch?v=CtSddPviBwo&t=196s ] 
-타겟 기기 : ANDROID / 개발 엔진 : UNITY (3D) / 장르 : 핵앤슬래시 
+- ### 🌱수박 탕후루 (2023.11.10 ~ 2023.11.20) 
+개발 엔진 : UNITY (2D) Mobile / 장르 : HYPER CASUAL, 수박게임
 
-- ##### 🌱쿠키팡 (2023.03.01 ~ 2023.04.10) [ https://www.youtube.com/watch?v=Qxl3oXogUqY&t=90s ]
-##### <p>$\bf{\large{\color{#5ad7b7} [플레이 스토어 출시] }}$</p>  [ https://play.google.com/store/apps/details?id=com.GobyCompany.CookiePang ]
-타겟 기기 : ANDROID / 개발 엔진 : UNITY (2D) / 장르 : CASUAL, PUZZLE
+깃허브 링크 : [ https://github.com/SiwonChoi98/WatermelonTanghulu ]
 
-- ##### 🌱룬 서바이벌 (2022.09.15 ~ 2022.10.15) [ https://www.youtube.com/watch?v=ZHwwIkrfXGA&t=86s ]
-타겟 기기 : ANDROID / 개발 엔진 : UNITY (3D) / 장르 : HYPER CASUAL, 탕탕라이크
+플레이 영상 : [ https://youtu.be/2yRtLrhS5G0 ]
+ 
+플레이 스토어 : [ https://play.google.com/store/apps/details?id=com.samplegames.MergeMergeMerge ]
 
-- ##### 🌱별빛팡팡 (2022.07.01 ~ 2022.07.22) [ https://www.youtube.com/watch?v=gkMU1gYdbOk&t=2s ]
-##### <p>$\bf{\large{\color{#5ad7b7} [플레이 스토어 출시] }}$</p> [ https://play.google.com/store/apps/details?id=com.ESCAPESTAR.CHOI ] 
-타겟 기기 : ANDROID / 개발 엔진 : UNITY (2D) / 장르 : HYPER CASUAL, 피하기
+- ### 🌱랜덤 슬라임 (2023.09.08 ~ 2023.09.28) 
+개발 엔진 : UNITY (2D) Mobile / 장르 : HYPER CASUAL, 탕탕라이크
 
-- ##### 🌱디펜스 아처 (2022.04.01 ~ 2022.06.01) [ https://www.youtube.com/watch?v=V1iOSW0weYI&t=140s ]
-타겟 기기 : PC / 개발 엔진 : UNITY (3D) / 장르 : DEFENCE
+플레이 영상 : [ https://youtu.be/uQwV0OJNKlY ] 
+
+깃허브 링크 : [ https://github.com/SiwonChoi98/RandomSlime ]
+
+- ### 🌱소울 스크롤 (2023.03.15 ~ 2023.05.15) 
+개발 엔진 : UNITY (3D) Mobile / 장르 : 핵앤슬래시 
+
+플레이 영상 : [ https://www.youtube.com/watch?v=CtSddPviBwo&t=196s ] 
+
+- ### 🌱쿠키팡 (2023.03.01 ~ 2023.04.10) 
+개발 엔진 : UNITY (2D) Mobile / 장르 : CASUAL, PUZZLE
+
+플레이 영상 : [ https://www.youtube.com/watch?v=Qxl3oXogUqY&t=90s ]
+
+플레이 스토어 : [ https://play.google.com/store/apps/details?id=com.GobyCompany.CookiePang ]
+
+- ### 🌱룬 서바이벌 (2022.09.15 ~ 2022.10.15) 
+개발 엔진 : UNITY (3D) PC / 장르 : HYPER CASUAL, 탕탕라이크
+
+플레이 영상 : [ https://www.youtube.com/watch?v=ZHwwIkrfXGA&t=86s ]
+
+- ### 🌱별빛팡팡 (2022.07.01 ~ 2022.07.22)
+개발 엔진 : UNITY (2D) Mobile / 장르 : HYPER CASUAL, 피하기
+
+플레이 영상 : [ https://www.youtube.com/watch?v=gkMU1gYdbOk&t=2s ]
+
+플레이 스토어 : [ https://play.google.com/store/apps/details?id=com.ESCAPESTAR.CHOI ] 
+
+- ### 🌱디펜스 아처 (2022.04.01 ~ 2022.06.01) 
+개발 엔진 : UNITY (3D) PC / 장르 : DEFENCE
+
+플레이 영상 : [ https://www.youtube.com/watch?v=V1iOSW0weYI&t=140s ]
 
   
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=🌱공부&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)

@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 깃허브 링크 : [ https://github.com/SiwonChoi98/MultiPlayerGame ]
 
+플레이 영상 : [ https://www.youtube.com/watch?v=g7HYcXvn8oQ ]
+
 - ### 🌱수박 탕후루 (2023.11.10 ~ 2023.11.20) 
 개발 엔진 : UNITY (2D) Mobile / 장르 : HYPER CASUAL, 수박게임
 

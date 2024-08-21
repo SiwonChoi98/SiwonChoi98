@@ -64,6 +64,8 @@ Here are some ideas to get you started:
 - ### 🌱쿠키팡 (2023.03.01 ~ 2023.04.10) 
 개발 엔진 : UNITY (2D) Mobile / 장르 : CASUAL, PUZZLE
 
+깃허브 링크 : [ https://github.com/SiwonChoi98/cookiepang ]
+
 플레이 영상 : [ https://www.youtube.com/watch?v=Qxl3oXogUqY&t=90s ]
 
 플레이 스토어 : [ https://play.google.com/store/apps/details?id=com.GobyCompany.CookiePang ]

@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 - ### 🌱소울 스크롤 (2023.03.15 ~ 2023.05.15) 
 개발 엔진 : UNITY (3D) Mobile / 장르 : 핵앤슬래시 
 
+깃허브 링크 : [ https://github.com/SiwonChoi98/SMG ]
+
 플레이 영상 : [ https://www.youtube.com/watch?v=CtSddPviBwo&t=196s ] 
 
 - ### 🌱쿠키팡 (2023.03.01 ~ 2023.04.10) 

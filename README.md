@@ -80,6 +80,8 @@ Here are some ideas to get you started:
 - ### 🌱별빛팡팡 (2022.07.01 ~ 2022.07.22)
 개발 엔진 : UNITY (2D) Mobile / 장르 : HYPER CASUAL, 피하기
 
+깃허브 링크 : [ https://github.com/SiwonChoi98/pangpang ] 
+ 
 플레이 영상 : [ https://www.youtube.com/watch?v=gkMU1gYdbOk&t=2s ]
 
 플레이 스토어 : [ https://play.google.com/store/apps/details?id=com.ESCAPESTAR.CHOI ] 

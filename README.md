@@ -75,6 +75,8 @@ Here are some ideas to get you started:
 - ### 🌱룬 서바이벌 (2022.09.15 ~ 2022.10.15) 
 개발 엔진 : UNITY (3D) PC / 장르 : HYPER CASUAL, 탕탕라이크
 
+깃허브 링크 : [ https://github.com/SiwonChoi98/RuneSurvivor-Script ]
+
 플레이 영상 : [ https://www.youtube.com/watch?v=ZHwwIkrfXGA&t=86s ]
 
 - ### 🌱별빛팡팡 (2022.07.01 ~ 2022.07.22)

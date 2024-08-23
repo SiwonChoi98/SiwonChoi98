@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=⚡프로젝트&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 
-####  [ 시간 순 가장 최신이 맨 위에 정렬되어 있음 ]
+####  [ ⏰ 시간 순 가장 최신이 맨 위에 정렬되어 있음 ]
 - ### (8) Multi Shooting Game (2024.05.27 ~ 현재 개발 중) 
 개발 엔진 : UNITY (2D) PC / 장르 (2D FPS) 
 

@@ -3,6 +3,10 @@
 
 
 ------------------------
+###### Platforms & Language
+<img src="https://img.shields.io/badge/UNITY-E34F26?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/csharp-F7DF1E?style=for-the-badge&logo=sharp&logoColor=white">
+<img src="https://img.shields.io/badge/CPP-007396?style=for-the-badge&logo=cplusplus&logoColor=white">
+
 ###### Portfolio [👇 클릭하시면 해당 원본 링크로 이동합니다.]
 <div align=left>
  <a href="https://www.notion.so/Portfolio-39babd82f1254016bfd6b315cd1de31d?pvs=4">
@@ -15,21 +19,18 @@
   <img src="https://img.shields.io/badge/Tistory-2E3340?style=for-the-badge&logo=Tistory&logoColor=white">
 </div>
 
-###### Platforms & Language
-<img src="https://img.shields.io/badge/UNITY-E34F26?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/csharp-F7DF1E?style=for-the-badge&logo=sharp&logoColor=white">
-<img src="https://img.shields.io/badge/CPP-007396?style=for-the-badge&logo=cplusplus&logoColor=white">
+###### Project GamePlay Video [👇 클릭하시면 해당 원본 링크로 이동합니다.]
+<div align=left>
+ <a href="https://www.youtube.com/channel/UCjcuRdCqDgogW7ZK8ukTp6w">
+  <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube gaming&logoColor=white">
+</div>
+
 
 ###### Most Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiwonChoi98)](https://github.com/anuraghazra/github-readme-stats)
 
 ###### BackJoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bestvalue0410)](https://solved.ac/bestvalue0410)
-
-###### Project GamePlay Video [👇 클릭하시면 해당 원본 링크로 이동합니다.]
-<div align=left>
- <a href="https://www.youtube.com/channel/UCjcuRdCqDgogW7ZK8ukTp6w">
-  <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube gaming&logoColor=white">
-</div>
 
 <!--
 **SiwonChoi98/SiwonChoi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -63,11 +64,12 @@ Here are some ideas to get you started:
 <div align=left>
  <a href="https://github.com/SiwonChoi98/MultiPlayerGame">
   <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+ <a href="https://www.youtube.com/watch?v=g7HYcXvn8oQ">
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
 </div>
 
 <div align=left>
- <a href="https://www.youtube.com/watch?v=g7HYcXvn8oQ">
-  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
+ 
 </div>
 
 - ##### 🌱(7) 수박 탕후루 (2023.11.10 ~ 2023.11.20) 

@@ -3,6 +3,10 @@
 
 
 ------------------------
+<img src="https://img.shields.io/badge/UNITY-E34F26?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/csharp-F7DF1E?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/CPP-007396?style=for-the-badge&logo=cplusplus&logoColor=white">
+
+
 - #### 포트폴리오 : [ https://www.notion.so/Portfolio-39babd82f1254016bfd6b315cd1de31d?pvs=4 ] 
 
 - #### 티스토리 : [ https://gameclientstudynote.tistory.com ] 

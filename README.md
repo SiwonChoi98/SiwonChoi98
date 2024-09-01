@@ -3,8 +3,11 @@
 
 
 ------------------------
-###### Portfolio
-[ https://www.notion.so/Portfolio-39babd82f1254016bfd6b315cd1de31d?pvs=4 ] 
+###### Portfolio [👇 클릭하시면 해당 원본 링크로 이동합니다.]
+<div align=left>
+ <a href="https://www.notion.so/Portfolio-39babd82f1254016bfd6b315cd1de31d?pvs=4">
+  <img src="https://img.shields.io/badge/Portfolio-0C322C?style=for-the-badge&logo=clubhouse&logoColor=white">
+</div>
 
 ###### Study [👇 클릭하시면 해당 원본 링크로 이동합니다.]
 <div align=left>

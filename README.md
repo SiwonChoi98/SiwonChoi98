@@ -7,7 +7,7 @@
 
 - #### 티스토리 : [ https://gameclientstudynote.tistory.com ] 
 
-- #### 백준 온라인 져지 : [ https://www.acmicpc.net/user/bestvalue0410 ]
+- #### <⚡BackJoon>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bestvalue0410)](https://solved.ac/bestvalue0410)
 
 - #### 유튜브 : [ https://www.youtube.com/channel/UCjcuRdCqDgogW7ZK8ukTp6w ]

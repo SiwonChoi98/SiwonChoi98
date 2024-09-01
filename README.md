@@ -47,84 +47,83 @@ Here are some ideas to get you started:
 --> 
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=😄활동내역&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=30&section=header&text=😄활동내역&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55)
 
-- #### (주)쿡앱스 클라이언트 개발 슈퍼루키 인턴 (2023.09.04 ~ 2023.12.03)
-- #### 스마일 게이트 인디 게임 장학생 (2023.02.28 ~ 2023.05.15)
-- #### 게임 메이커스 동아리 (2023.02.01 ~ 2023.12.16)
+###### (주)쿡앱스 클라이언트 개발 슈퍼루키 인턴 (2023.09.04 ~ 2023.12.03)
+###### 스마일 게이트 인디 게임 장학생 (2023.02.28 ~ 2023.05.15)
+###### 게임 메이커스 동아리 (2023.02.01 ~ 2023.12.16)
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=⚡프로젝트&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=30&section=header&text=⚡프로젝트&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55)
 
-####  [ ⏰ 시간 순 가장 최신이 맨 위에 정렬되어 있음 ]
-- ### (8) Multi Shooting Game (2024.05.27 ~ 현재 개발 중) 
-개발 엔진 : UNITY (2D) PC / 장르 (2D FPS) 
+#####  [ ⏰ 시간 순 가장 최신이 맨 위에 정렬되어 있음 ]
+- ##### (8) Multi Shooting Game (2024.05.27 ~ 현재 개발 중) 
+###### 개발 엔진 : UNITY (2D) PC / 장르 (2D FPS) 
 
-깃허브 링크 : [ https://github.com/SiwonChoi98/MultiPlayerGame ]
+###### 깃허브 링크 : [ https://github.com/SiwonChoi98/MultiPlayerGame ]
 
-플레이 영상 : [ https://www.youtube.com/watch?v=g7HYcXvn8oQ ]
+###### 플레이 영상 : [ https://www.youtube.com/watch?v=g7HYcXvn8oQ ]
 
-- ### 🌱(7) 수박 탕후루 (2023.11.10 ~ 2023.11.20) 
-개발 엔진 : UNITY (2D) Mobile / 장르 : HYPER CASUAL, 수박게임
+- ##### 🌱(7) 수박 탕후루 (2023.11.10 ~ 2023.11.20) 
+###### 개발 엔진 : UNITY (2D) Mobile / 장르 : HYPER CASUAL, 수박게임
 
-깃허브 링크 : [ https://github.com/SiwonChoi98/WatermelonTanghulu ]
+###### 깃허브 링크 : [ https://github.com/SiwonChoi98/WatermelonTanghulu ]
 
-플레이 영상 : [ https://youtu.be/2yRtLrhS5G0 ]
+###### 플레이 영상 : [ https://youtu.be/2yRtLrhS5G0 ]
  
-플레이 스토어 : [ https://play.google.com/store/apps/details?id=com.samplegames.MergeMergeMerge ]
+###### 플레이 스토어 : [ https://play.google.com/store/apps/details?id=com.samplegames.MergeMergeMerge ]
 
-- ### 🌱(6) 랜덤 슬라임 (2023.09.08 ~ 2023.09.28) 
-개발 엔진 : UNITY (2D) Mobile / 장르 : HYPER CASUAL, 탕탕라이크
+- ##### 🌱(6) 랜덤 슬라임 (2023.09.08 ~ 2023.09.28) 
+###### 개발 엔진 : UNITY (2D) Mobile / 장르 : HYPER CASUAL, 탕탕라이크
 
-플레이 영상 : [ https://youtu.be/uQwV0OJNKlY ] 
+###### 플레이 영상 : [ https://youtu.be/uQwV0OJNKlY ] 
 
-깃허브 링크 : [ https://github.com/SiwonChoi98/RandomSlime ]
+###### 깃허브 링크 : [ https://github.com/SiwonChoi98/RandomSlime ]
 
-- ### 🌱(5) 소울 스크롤 (2023.03.15 ~ 2023.05.15) 
-개발 엔진 : UNITY (3D) Mobile / 장르 : 핵앤슬래시 
+- ##### 🌱(5) 소울 스크롤 (2023.03.15 ~ 2023.05.15) 
+###### 개발 엔진 : UNITY (3D) Mobile / 장르 : 핵앤슬래시 
 
-깃허브 링크 : [ https://github.com/SiwonChoi98/SMG ]
+###### 깃허브 링크 : [ https://github.com/SiwonChoi98/SMG ]
 
-플레이 영상 : [ https://www.youtube.com/watch?v=CtSddPviBwo&t=196s ] 
+###### 플레이 영상 : [ https://www.youtube.com/watch?v=CtSddPviBwo&t=196s ] 
 
-- ### 🌱(4) 쿠키팡 (2023.03.01 ~ 2023.04.10) 
-개발 엔진 : UNITY (2D) Mobile / 장르 : CASUAL, PUZZLE
+- ##### 🌱(4) 쿠키팡 (2023.03.01 ~ 2023.04.10) 
+###### 개발 엔진 : UNITY (2D) Mobile / 장르 : CASUAL, PUZZLE
 
-깃허브 링크 : [ https://github.com/SiwonChoi98/cookiepang ]
+###### 깃허브 링크 : [ https://github.com/SiwonChoi98/cookiepang ]
 
-플레이 영상 : [ https://www.youtube.com/watch?v=Qxl3oXogUqY&t=90s ]
+###### 플레이 영상 : [ https://www.youtube.com/watch?v=Qxl3oXogUqY&t=90s ]
 
-플레이 스토어 : [ https://play.google.com/store/apps/details?id=com.GobyCompany.CookiePang ]
+###### 플레이 스토어 : [ https://play.google.com/store/apps/details?id=com.GobyCompany.CookiePang ]
 
-- ### 🌱(3) 룬 서바이벌 (2022.09.15 ~ 2022.10.15) 
-개발 엔진 : UNITY (3D) PC / 장르 : HYPER CASUAL, 탕탕라이크
+- ##### 🌱(3) 룬 서바이벌 (2022.09.15 ~ 2022.10.15) 
+###### 개발 엔진 : UNITY (3D) PC / 장르 : HYPER CASUAL, 탕탕라이크
 
-깃허브 링크 : [ https://github.com/SiwonChoi98/RuneSurvivor-Script ]
+###### 깃허브 링크 : [ https://github.com/SiwonChoi98/RuneSurvivor-Script ]
 
-플레이 영상 : [ https://www.youtube.com/watch?v=ZHwwIkrfXGA&t=86s ]
+###### 플레이 영상 : [ https://www.youtube.com/watch?v=ZHwwIkrfXGA&t=86s ]
 
-- ### 🌱(2) 별빛팡팡 (2022.07.01 ~ 2022.07.22)
-개발 엔진 : UNITY (2D) Mobile / 장르 : HYPER CASUAL, 피하기
+- ##### 🌱(2) 별빛팡팡 (2022.07.01 ~ 2022.07.22)
+###### 개발 엔진 : UNITY (2D) Mobile / 장르 : HYPER CASUAL, 피하기
 
-깃허브 링크 : [ https://github.com/SiwonChoi98/pangpang ] 
+###### 깃허브 링크 : [ https://github.com/SiwonChoi98/pangpang ] 
  
-플레이 영상 : [ https://www.youtube.com/watch?v=gkMU1gYdbOk&t=2s ]
+###### 플레이 영상 : [ https://www.youtube.com/watch?v=gkMU1gYdbOk&t=2s ]
 
-플레이 스토어 : [ https://play.google.com/store/apps/details?id=com.ESCAPESTAR.CHOI ] 
+###### 플레이 스토어 : [ https://play.google.com/store/apps/details?id=com.ESCAPESTAR.CHOI ] 
 
-- ### 🌱(1) 디펜스 아처 (2022.04.01 ~ 2022.06.01) 
-개발 엔진 : UNITY (3D) PC / 장르 : DEFENCE
+- ##### 🌱(1) 디펜스 아처 (2022.04.01 ~ 2022.06.01) 
+###### 개발 엔진 : UNITY (3D) PC / 장르 : DEFENCE
 
-깃허브 링크 : [ https://github.com/SiwonChoi98/DefenceArcher ] 
+###### 깃허브 링크 : [ https://github.com/SiwonChoi98/DefenceArcher ] 
 
-플레이 영상 : [ https://www.youtube.com/watch?v=V1iOSW0weYI&t=140s ]
+###### 플레이 영상 : [ https://www.youtube.com/watch?v=V1iOSW0weYI&t=140s ]
 
-  
- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=50&section=header&text=🌱공부&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
+ ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=30&section=header&text=🌱기타공부&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55)
 
-- #### 서버(AWS S3) 어드레서블 활용 및 데이터 관리 [ https://github.com/SiwonChoi98/InGameData-UserData-addressableAsset ]
+###### 서버(AWS S3) 어드레서블 활용 및 데이터 관리 [ https://github.com/SiwonChoi98/InGameData-UserData-addressableAsset ]
 
-- #### 퀘스트 시스템 구조 [ https://github.com/SiwonChoi98/QuestSystem ]
+###### 퀘스트 시스템 구조 [ https://github.com/SiwonChoi98/QuestSystem ]
 
-- #### 스테이트 머신 [ https://github.com/SiwonChoi98/StateMachine ]
+###### 스테이트 머신 [ https://github.com/SiwonChoi98/StateMachine ]
 
-- #### 대리자 사용 [ https://github.com/SiwonChoi98/SampleAction ]
+###### 대리자 사용 [ https://github.com/SiwonChoi98/SampleAction ]

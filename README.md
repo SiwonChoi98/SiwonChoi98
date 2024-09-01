@@ -59,64 +59,122 @@ Here are some ideas to get you started:
 - ##### (8) Multi Shooting Game (2024.05.27 ~ 현재 개발 중) 
 ###### 개발 엔진 : UNITY (2D) PC / 장르 (2D FPS) 
 
-###### 깃허브 링크 : [ https://github.com/SiwonChoi98/MultiPlayerGame ]
+###### [👇 클릭하시면 해당 깃허브 링크로 이동합니다.]
+<div align=left>
+ <a href="https://github.com/SiwonChoi98/MultiPlayerGame">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+</div>
 
-###### 플레이 영상 : [ https://www.youtube.com/watch?v=g7HYcXvn8oQ ]
+<div align=left>
+ <a href="https://www.youtube.com/watch?v=g7HYcXvn8oQ">
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
+</div>
 
 - ##### 🌱(7) 수박 탕후루 (2023.11.10 ~ 2023.11.20) 
 ###### 개발 엔진 : UNITY (2D) Mobile / 장르 : HYPER CASUAL, 수박게임
 
-###### 깃허브 링크 : [ https://github.com/SiwonChoi98/WatermelonTanghulu ]
+<div align=left>
+ <a href="https://github.com/SiwonChoi98/WatermelonTanghulu">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+</div>
 
-###### 플레이 영상 : [ https://youtu.be/2yRtLrhS5G0 ]
- 
-###### 플레이 스토어 : [ https://play.google.com/store/apps/details?id=com.samplegames.MergeMergeMerge ]
+<div align=left>
+ <a href="https://youtu.be/2yRtLrhS5G0">
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
+</div>
+
+<div align=left>
+ <a href="https://play.google.com/store/apps/details?id=com.samplegames.MergeMergeMerge">
+  <img src="https://img.shields.io/badge/GooglePlayStore-68BC71?style=for-the-badge&logo=GooglePlayStore&logoColor=white">
+</div>
 
 - ##### 🌱(6) 랜덤 슬라임 (2023.09.08 ~ 2023.09.28) 
 ###### 개발 엔진 : UNITY (2D) Mobile / 장르 : HYPER CASUAL, 탕탕라이크
 
-###### 플레이 영상 : [ https://youtu.be/uQwV0OJNKlY ] 
+<div align=left>
+ <a href="https://youtu.be/uQwV0OJNKlY">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+</div>
 
-###### 깃허브 링크 : [ https://github.com/SiwonChoi98/RandomSlime ]
+ <div align=left>
+ <a href="https://github.com/SiwonChoi98/RandomSlime">
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
+</div>
 
 - ##### 🌱(5) 소울 스크롤 (2023.03.15 ~ 2023.05.15) 
 ###### 개발 엔진 : UNITY (3D) Mobile / 장르 : 핵앤슬래시 
 
-###### 깃허브 링크 : [ https://github.com/SiwonChoi98/SMG ]
+<div align=left>
+ <a href="https://github.com/SiwonChoi98/SMG">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+</div>
 
-###### 플레이 영상 : [ https://www.youtube.com/watch?v=CtSddPviBwo&t=196s ] 
+ <div align=left>
+ <a href="https://www.youtube.com/watch?v=CtSddPviBwo&t=196s">
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
+</div>
 
 - ##### 🌱(4) 쿠키팡 (2023.03.01 ~ 2023.04.10) 
 ###### 개발 엔진 : UNITY (2D) Mobile / 장르 : CASUAL, PUZZLE
 
-###### 깃허브 링크 : [ https://github.com/SiwonChoi98/cookiepang ]
+<div align=left>
+ <a href="https://github.com/SiwonChoi98/cookiepang">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+</div>
 
-###### 플레이 영상 : [ https://www.youtube.com/watch?v=Qxl3oXogUqY&t=90s ]
+<div align=left>
+ <a href="https://www.youtube.com/watch?v=Qxl3oXogUqY&t=90s">
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
+</div>
 
-###### 플레이 스토어 : [ https://play.google.com/store/apps/details?id=com.GobyCompany.CookiePang ]
+<div align=left>
+ <a href="https://play.google.com/store/apps/details?id=com.GobyCompany.CookiePang">
+  <img src="https://img.shields.io/badge/GooglePlayStore-68BC71?style=for-the-badge&logo=GooglePlayStore&logoColor=white">
+</div>
 
 - ##### 🌱(3) 룬 서바이벌 (2022.09.15 ~ 2022.10.15) 
 ###### 개발 엔진 : UNITY (3D) PC / 장르 : HYPER CASUAL, 탕탕라이크
 
-###### 깃허브 링크 : [ https://github.com/SiwonChoi98/RuneSurvivor-Script ]
+<div align=left>
+ <a href="https://github.com/SiwonChoi98/RuneSurvivor-Script">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+</div>
 
-###### 플레이 영상 : [ https://www.youtube.com/watch?v=ZHwwIkrfXGA&t=86s ]
+ <div align=left>
+ <a href="https://www.youtube.com/watch?v=ZHwwIkrfXGA&t=86s">
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
+</div>
 
 - ##### 🌱(2) 별빛팡팡 (2022.07.01 ~ 2022.07.22)
 ###### 개발 엔진 : UNITY (2D) Mobile / 장르 : HYPER CASUAL, 피하기
 
-###### 깃허브 링크 : [ https://github.com/SiwonChoi98/pangpang ] 
- 
-###### 플레이 영상 : [ https://www.youtube.com/watch?v=gkMU1gYdbOk&t=2s ]
+<div align=left>
+ <a href="https://github.com/SiwonChoi98/pangpang">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+</div>
 
-###### 플레이 스토어 : [ https://play.google.com/store/apps/details?id=com.ESCAPESTAR.CHOI ] 
+<div align=left>
+ <a href="https://www.youtube.com/watch?v=gkMU1gYdbOk&t=2s">
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
+</div>
+
+<div align=left>
+ <a href="https://play.google.com/store/apps/details?id=com.ESCAPESTAR.CHOI">
+  <img src="https://img.shields.io/badge/GooglePlayStore-68BC71?style=for-the-badge&logo=GooglePlayStore&logoColor=white">
+</div>
 
 - ##### 🌱(1) 디펜스 아처 (2022.04.01 ~ 2022.06.01) 
 ###### 개발 엔진 : UNITY (3D) PC / 장르 : DEFENCE
 
-###### 깃허브 링크 : [ https://github.com/SiwonChoi98/DefenceArcher ] 
+<div align=left>
+ <a href="https://github.com/SiwonChoi98/DefenceArcher">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+</div>
 
-###### 플레이 영상 : [ https://www.youtube.com/watch?v=V1iOSW0weYI&t=140s ]
+ <div align=left>
+ <a href="https://www.youtube.com/watch?v=V1iOSW0weYI&t=140s">
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
+</div>
 
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=30&section=header&text=🌱기타공부&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55)
 

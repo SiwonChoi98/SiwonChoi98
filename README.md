@@ -22,8 +22,11 @@
 ###### BackJoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bestvalue0410)](https://solved.ac/bestvalue0410)
 
-###### Project GamePlay Video
-[ https://www.youtube.com/channel/UCjcuRdCqDgogW7ZK8ukTp6w ]
+###### Project GamePlay Video [👇 클릭하시면 해당 원본 링크로 이동합니다.]
+<div align=left>
+ <a href="https://www.youtube.com/channel/UCjcuRdCqDgogW7ZK8ukTp6w">
+  <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube gaming&logoColor=white">
+</div>
 
 <!--
 **SiwonChoi98/SiwonChoi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

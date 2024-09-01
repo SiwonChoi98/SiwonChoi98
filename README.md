@@ -92,12 +92,12 @@ Here are some ideas to get you started:
 ###### 개발 엔진 : UNITY (2D) Mobile / 장르 : HYPER CASUAL, 탕탕라이크
 
 <div align=left>
- <a href="https://youtu.be/uQwV0OJNKlY">
+ <a href="https://github.com/SiwonChoi98/RandomSlime">
   <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
 </div>
 
  <div align=left>
- <a href="https://github.com/SiwonChoi98/RandomSlime">
+ <a href="https://youtu.be/uQwV0OJNKlY">
   <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
 </div>
 

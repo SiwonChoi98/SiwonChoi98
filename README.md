@@ -3,19 +3,21 @@
 
 
 ------------------------
+###### Portfolio
+[ https://www.notion.so/Portfolio-39babd82f1254016bfd6b315cd1de31d?pvs=4 ] 
+
+###### Study
+[ https://gameclientstudynote.tistory.com ] 
+
 ###### Platforms & Language
 <img src="https://img.shields.io/badge/UNITY-E34F26?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/csharp-F7DF1E?style=for-the-badge&logo=sharp&logoColor=white">
 <img src="https://img.shields.io/badge/CPP-007396?style=for-the-badge&logo=cplusplus&logoColor=white">
 
-
-- #### 포트폴리오 : [ https://www.notion.so/Portfolio-39babd82f1254016bfd6b315cd1de31d?pvs=4 ] 
-
-- #### 티스토리 : [ https://gameclientstudynote.tistory.com ] 
-
-- #### <⚡BackJoon>
+###### BackJoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bestvalue0410)](https://solved.ac/bestvalue0410)
 
-- #### 유튜브 : [ https://www.youtube.com/channel/UCjcuRdCqDgogW7ZK8ukTp6w ]
+###### GamePlay Video
+[ https://www.youtube.com/channel/UCjcuRdCqDgogW7ZK8ukTp6w ]
 <!--
 **SiwonChoi98/SiwonChoi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

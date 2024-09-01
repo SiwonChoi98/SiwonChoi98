@@ -3,11 +3,15 @@
 
 
 ------------------------
+
 ###### Portfolio
 [ https://www.notion.so/Portfolio-39babd82f1254016bfd6b315cd1de31d?pvs=4 ] 
 
-###### Study
-[ https://gameclientstudynote.tistory.com ] 
+###### Study [👇 클릭하시면 해당 원본 링크로 이동합니다.]
+<div align=left>
+ <a href="https://gameclientstudynote.tistory.com">
+  <img src="https://img.shields.io/badge/Tistory-2E3340?style=for-the-badge&logo=Tistory&logoColor=white">
+</div>
 
 ###### Platforms & Language
 <img src="https://img.shields.io/badge/UNITY-E34F26?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/csharp-F7DF1E?style=for-the-badge&logo=sharp&logoColor=white">

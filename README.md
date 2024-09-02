@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 <div align=left>
  <a href="https://github.com/SiwonChoi98/MultiPlayerGame">
-  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=github&logoColor=white">
  <a href="https://www.youtube.com/watch?v=g7HYcXvn8oQ">
   <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
 </div>
@@ -73,11 +73,11 @@ Here are some ideas to get you started:
 
 <div align=left>
  <a href="https://github.com/SiwonChoi98/WatermelonTanghulu">
-  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=github&logoColor=white">
   <a href="https://youtu.be/2yRtLrhS5G0">
   <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
    <a href="https://play.google.com/store/apps/details?id=com.samplegames.MergeMergeMerge">
-  <img src="https://img.shields.io/badge/GooglePlayStore-68BC71?style=for-the-badge&logo=GooglePlayStore&logoColor=white">
+  <img src="https://img.shields.io/badge/GooglePlayStore-68BC71?style=for-the-badge&logo=googleplay&logoColor=white">
 </div>
 
 
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 <div align=left>
  <a href="https://github.com/SiwonChoi98/RandomSlime">
-  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=github&logoColor=white">
    <a href="https://youtu.be/uQwV0OJNKlY">
   <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
 </div>
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 
 <div align=left>
  <a href="https://github.com/SiwonChoi98/SMG">
-  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=github&logoColor=white">
   <a href="https://www.youtube.com/watch?v=CtSddPviBwo&t=196s">
   <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
 </div>
@@ -106,11 +106,11 @@ Here are some ideas to get you started:
 
 <div align=left>
  <a href="https://github.com/SiwonChoi98/cookiepang">
-  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=github&logoColor=white">
   <a href="https://www.youtube.com/watch?v=Qxl3oXogUqY&t=90s">
   <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
    <a href="https://play.google.com/store/apps/details?id=com.GobyCompany.CookiePang">
-  <img src="https://img.shields.io/badge/GooglePlayStore-68BC71?style=for-the-badge&logo=GooglePlayStore&logoColor=white">
+  <img src="https://img.shields.io/badge/GooglePlayStore-68BC71?style=for-the-badge&logo=googleplay&logoColor=white">
 </div>
 
 - ##### 🌱(3) 룬 서바이벌 (2022.09.15 ~ 2022.10.15) 
@@ -118,7 +118,7 @@ Here are some ideas to get you started:
 
 <div align=left>
  <a href="https://github.com/SiwonChoi98/RuneSurvivor-Script">
-  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=github&logoColor=white">
    <a href="https://www.youtube.com/watch?v=ZHwwIkrfXGA&t=86s">
   <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
 </div>
@@ -128,11 +128,11 @@ Here are some ideas to get you started:
 
 <div align=left>
  <a href="https://github.com/SiwonChoi98/pangpang">
-  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=github&logoColor=white">
   <a href="https://www.youtube.com/watch?v=gkMU1gYdbOk&t=2s">
   <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
    <a href="https://play.google.com/store/apps/details?id=com.ESCAPESTAR.CHOI">
-  <img src="https://img.shields.io/badge/GooglePlayStore-68BC71?style=for-the-badge&logo=GooglePlayStore&logoColor=white">
+  <img src="https://img.shields.io/badge/GooglePlayStore-68BC71?style=for-the-badge&logo=googleplay&logoColor=white">
 </div>
 
 - ##### 🌱(1) 디펜스 아처 (2022.04.01 ~ 2022.06.01) 
@@ -140,7 +140,7 @@ Here are some ideas to get you started:
 
 <div align=left>
  <a href="https://github.com/SiwonChoi98/DefenceArcher">
-  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=LINK&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=github&logoColor=white">
    <a href="https://www.youtube.com/watch?v=V1iOSW0weYI&t=140s">
   <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
 </div>

@@ -22,7 +22,7 @@
 ###### Project GamePlay Video [👇 클릭하시면 해당 원본 링크로 이동합니다.]
 <div align=left>
  <a href="https://www.youtube.com/channel/UCjcuRdCqDgogW7ZK8ukTp6w">
-  <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube gaming&logoColor=white">
+  <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </div>
 
 

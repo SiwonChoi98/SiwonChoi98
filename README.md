@@ -65,6 +65,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=github&logoColor=white">
  <a href="https://www.youtube.com/watch?v=g7HYcXvn8oQ">
   <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
+  <a href="https://drive.google.com/drive/folders/1VX7qYBRKgobWSIG66x_QA4sdJgjD__O8?usp=sharing">
+  <img src="https://img.shields.io/badge/Download-3399FF?style=for-the-badge&logo=apostrophe&logoColor=white">
 </div>
 
 - ##### 🌱(7) 수박 탕후루 (2023.11.10 ~ 2023.11.20) 

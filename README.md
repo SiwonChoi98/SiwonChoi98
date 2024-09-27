@@ -1,6 +1,14 @@
 ### 안녕하세요. 게임 클라이언트 개발자 최시원입니다.! 👋
 많은 사람들의 사랑받는 게임을 개발하는 것을 목표로 달리는 중....
 
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=30&section=header&text=😄활동내역&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55)
+
+###### 111percent 클라이언트 개발 <슈퍼드리머 인턴> (2024.10.02 ~ )
+###### 쿡앱스 클라이언트 개발 <슈퍼루키 인턴> (2023.09.04 ~ 2023.12.03)
+###### 스마일 게이트 인디 게임 장학생 (2023.02.28 ~ 2023.05.15)
+###### 게임 메이커스 동아리 (2023.02.01 ~ 2023.12.16)
+
 ------------------------
 ###### Platforms & Language
 <img src="https://img.shields.io/badge/UNITY-E34F26?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/csharp-F7DF1E?style=for-the-badge&logo=sharp&logoColor=white">
@@ -46,13 +54,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=30&section=header&text=😄활동내역&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55)
-
-###### (주)쿡앱스 클라이언트 개발 슈퍼루키 인턴 (2023.09.04 ~ 2023.12.03)
-###### 스마일 게이트 인디 게임 장학생 (2023.02.28 ~ 2023.05.15)
-###### 게임 메이커스 동아리 (2023.02.01 ~ 2023.12.16)
-
+-------------------------------
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=30&section=header&text=⚡프로젝트&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55)
 
 #####  [ ⏰ 시간 순 가장 최신이 맨 위에 정렬되어 있음 ]

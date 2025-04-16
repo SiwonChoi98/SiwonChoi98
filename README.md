@@ -146,6 +146,8 @@ Here are some ideas to get you started:
 
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=30&section=header&text=🌱기타공부&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55)
 
+###### 효율적인 오브젝트 풀링, 레드닷, 스킬(전략 패턴) [ https://github.com/SiwonChoi98/NewFunc ]
+
 ###### 서버(AWS S3) 어드레서블 활용 및 데이터 관리 [ https://github.com/SiwonChoi98/InGameData-UserData-addressableAsset ]
 
 ###### 퀘스트 시스템 구조 [ https://github.com/SiwonChoi98/QuestSystem ]

@@ -144,18 +144,34 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
 </div>
 
- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=30&section=header&text=🌱기타공부&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55)
+ ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=30&section=header&text=🌱개인공부&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55)
 
-###### 어드레서블 + Object Pool, Strategy Pattern, Cinemachine Shake
+###### 어드레서블 + Object Pool, Strategy Pattern, Cinemachine Shake 
 <div align=left>
   <a href="https://github.com/SiwonChoi98/NewFunc">
-  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/LINK-000000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-###### 서버(AWS S3) 어드레서블 활용 및 데이터 관리 [ https://github.com/SiwonChoi98/InGameData-UserData-addressableAsset ]
+###### 서버(AWS S3) 어드레서블 활용 및 데이터 관리
+<div align=left>
+  <a href="https://github.com/SiwonChoi98/InGameData-UserData-addressableAsset">
+  <img src="https://img.shields.io/badge/LINK-000000?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
-###### 퀘스트 시스템 구조 [ https://github.com/SiwonChoi98/QuestSystem ]
+###### 퀘스트 시스템 구조
+<div align=left>
+  <a href="https://github.com/SiwonChoi98/QuestSystem">
+  <img src="https://img.shields.io/badge/LINK-000000?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
-###### 스테이트 머신 [ https://github.com/SiwonChoi98/StateMachine ]
+###### FSM (Ver.2)
+<div align=left>
+  <a href="https://github.com/SiwonChoi98/StateMachine">
+  <img src="https://img.shields.io/badge/LINK-000000?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
-###### 대리자 사용 [ https://github.com/SiwonChoi98/SampleAction ]
+###### Delegate
+<div align=left>
+  <a href="https://github.com/SiwonChoi98/SampleAction">
+  <img src="https://img.shields.io/badge/LINK-000000?style=for-the-badge&logo=github&logoColor=white">
+</div>

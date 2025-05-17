@@ -146,7 +146,11 @@ Here are some ideas to get you started:
 
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=30&section=header&text=🌱기타공부&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55)
 
-###### 기술 모음집~ [ https://github.com/SiwonChoi98/NewFunc ] 2025.04.16 ~ (진행중)
+###### 기술 모음집~ [ https://github.com/SiwonChoi98/NewFunc ] 2025.04.16 ~ (진행중) 
+<div align=left>
+  <a href="https://github.com/SiwonChoi98/NewFunc">
+  <img src="https://img.shields.io/badge/GITHUB-ECD53F?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
 ###### 서버(AWS S3) 어드레서블 활용 및 데이터 관리 [ https://github.com/SiwonChoi98/InGameData-UserData-addressableAsset ]
 

@@ -146,19 +146,19 @@ Here are some ideas to get you started:
 
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=30&section=header&text=🌱개인공부&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55)
 
-###### 어드레서블 + Object Pool, MVP Pattern, Strategy Pattern, Cinemachine Shake 
+###### Addressable + Object Pool, MVP Pattern, Strategy Pattern, UniTask,Cinemachine Shake 
 <div align=left>
   <a href="https://github.com/SiwonChoi98/NewFunc">
   <img src="https://img.shields.io/badge/LINK-000000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-###### 서버(AWS S3) 어드레서블 활용 및 데이터 관리
+###### Server(AWS S3) Addressable + Data 관리
 <div align=left>
   <a href="https://github.com/SiwonChoi98/InGameData-UserData-addressableAsset">
   <img src="https://img.shields.io/badge/LINK-000000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-###### 퀘스트 시스템 구조
+###### Quest System 구조
 <div align=left>
   <a href="https://github.com/SiwonChoi98/QuestSystem">
   <img src="https://img.shields.io/badge/LINK-000000?style=for-the-badge&logo=github&logoColor=white">

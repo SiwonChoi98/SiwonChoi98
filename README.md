@@ -182,7 +182,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/LINK-000000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-###### FSM (Ver.2)
+###### FSM (Ver2)
 <div align=left>
   <a href="https://github.com/SiwonChoi98/StateMachine">
   <img src="https://img.shields.io/badge/LINK-000000?style=for-the-badge&logo=github&logoColor=white">

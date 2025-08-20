@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 - ##### (9) RealtimePvP (2025.06.04 ~ )
 ###### 개발 엔진 : UNITY (3D) Mobile / 장르 (3D Action)
-<a href="https://youtu.be/ZqYhE-A32I4">
+<a href="https://www.youtube.com/watch?v=U2pGGbxDmag">
   <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
 
 - ##### (8) Multi Shooting Game (2024.05.27 ~ 2024.09.01) 

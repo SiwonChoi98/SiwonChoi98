@@ -1,5 +1,5 @@
 ### 안녕하세요. 게임 클라이언트 개발자 최시원입니다..! 👋
-많은 사람들의 사랑받는 게임을 개발하는 것을 목표로 달리는 중...
+많은 사람들의 사랑받는 게임을 개발하는 것을 목표로 달리는 중....
 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=101010&height=30&section=header&text=😄활동내역&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55)
